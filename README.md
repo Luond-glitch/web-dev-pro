@@ -135,7 +135,7 @@ Upload code to GitHub repo
 
 Enable Pages in Settings → Select main branch
 
-Deployed URL: https://username.github.io/project-name/
+Deployed URL:https://luond-glitch.github.io/web-dev-pro/
 
 Netlify / Vercel
 Create an account
